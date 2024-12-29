@@ -58,7 +58,3 @@ To run this project locally:
 The Rock vs. Mine Prediction project provides an end-to-end pipeline for building a robust classification model. By integrating data preprocessing, machine learning, and evaluation techniques, it delivers a reliable solution for real-world sonar signal classification tasks.
 
 ---
-
-
-## License
-This project is licensed under the MIT License.
